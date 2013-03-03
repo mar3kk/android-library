@@ -13,7 +13,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 public class SplashActivity extends Activity {
-	
+	/*asd*/
 	private static final String TAG = "SPLASH";
 	private Context mContext;
 	private Bitmap mSplashBmp;
